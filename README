@@ -1,0 +1,8 @@
+This is the 850 micron source catalogues for the 46 candidate protoclusters selected in M17 and the discussions in this section. Each .cat file corresponds to a single candidate protocluster, with filename as [protocluster name].cat. The descriptions of each column:
+
+ID: source ID in each candidate protocluster
+RA, Dec: positions of the peak flux density of the source, in degree.
+SNR: signal-to-noise ratio
+flux_density_mJy: Peak, deboosted flux density of the source, in mJy.
+flux_density_err_mJy: Deboosted flux density error, in mJy. A 5% calibration error is also included.
+
