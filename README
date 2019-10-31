@@ -6,3 +6,5 @@ SNR: signal-to-noise ratio
 flux_density_mJy: Peak, deboosted flux density of the source, in mJy.
 flux_density_err_mJy: Deboosted flux density error, in mJy. A 5% calibration error is also included.
 
+
+All the data, plots and results are the works of the author. Please email the author if you want to use/reproduce any data or plots: taianmoon@gmail.com
